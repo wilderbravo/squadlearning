@@ -1,0 +1,25 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Nodejs Course",
+            "author": "Jhon Carter",
+            "topic": "JavaScript",
+            "url": "http://thoughtworks.com"
+        },
+        {
+            "id": 2,
+            "title": "Rust Programming Course",
+            "author": "Jhon Carter",
+            "topic": "Rust",
+            "url": "http://thoughtworks.com"
+        },
+        {
+            "id": 3,
+            "title": "Redux Course",
+            "author": "Jhon Carter",
+            "topic": "JavaScript",
+            "url": "http://thoughtworks.com"
+        }
+    ]
+}
